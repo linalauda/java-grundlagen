@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Klassen/01_Klassen.iml" filepath="$PROJECT_DIR$/01_Klassen/01_Klassen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_MehrereMainMethoden/02_MehrereMainMethoden.iml" filepath="$PROJECT_DIR$/02_MehrereMainMethoden/02_MehrereMainMethoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_logische_operatoren/03_logische_operatoren.iml" filepath="$PROJECT_DIR$/03_logische_operatoren/03_logische_operatoren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Kommentare_Attribute/04_Kommentare_Attribute.iml" filepath="$PROJECT_DIR$/04_Kommentare_Attribute/04_Kommentare_Attribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Attribute/05_Attribute.iml" filepath="$PROJECT_DIR$/05_Attribute/05_Attribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Wiederholung/06_Wiederholung.iml" filepath="$PROJECT_DIR$/06_Wiederholung/06_Wiederholung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Typverkleinerung/07_Typverkleinerung.iml" filepath="$PROJECT_DIR$/07_Typverkleinerung/07_Typverkleinerung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Typvergroeserung/08_Typvergroeserung.iml" filepath="$PROJECT_DIR$/08_Typvergroeserung/08_Typvergroeserung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Operatoren/09_Operatoren.iml" filepath="$PROJECT_DIR$/09_Operatoren/09_Operatoren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Grundlagen/2_Grundlagen.iml" filepath="$PROJECT_DIR$/2_Grundlagen/2_Grundlagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/Grundlagen.iml" filepath="$PROJECT_DIR$/Grundlagen/Grundlagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hallo Welt/Hallo Welt.iml" filepath="$PROJECT_DIR$/Hallo Welt/Hallo Welt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java first.iml" filepath="$PROJECT_DIR$/.idea/Java first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logischeOperatoren/logischeOperatoren.iml" filepath="$PROJECT_DIR$/logischeOperatoren/logischeOperatoren.iml" />
+    </modules>
+  </component>
+</project>
