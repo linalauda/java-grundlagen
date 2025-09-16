@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/01_Klassen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/02_MehrereMainMethoden" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/03_logische_operatoren" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/04_Kommentare_Attribute" vcs="Git" />
