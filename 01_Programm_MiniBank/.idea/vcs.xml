@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02_MehrereMainMethoden" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_logische_operatoren" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_Kommentare_Attribute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05_Attribute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_Wiederholung" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07_Typverkleinerung" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08_Typvergroeserung" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09_Operatoren" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10_Methoden" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_Grundlagen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Grundlagen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hallo Welt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/logischeOperatoren" vcs="Git" />
+  </component>
+</project>
