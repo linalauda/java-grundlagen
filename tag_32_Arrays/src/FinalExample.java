@@ -19,7 +19,7 @@ public class FinalExample {
         public static double PI = 3.14159;
 
     }
-    class MeineMathe extends Mathe
+
 
     }
 }
